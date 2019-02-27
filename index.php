@@ -6,6 +6,9 @@
         <li>
             <a href="vehicle_manager">Vehicle Manager</a>
         </li>
+        <li>
+            <a href="vehicle_reviews">Vehicle Reviews</a>
+        </li>
     </ul>
 </main>
 <?php include 'view/footer.php'; ?>
